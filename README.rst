@@ -79,3 +79,22 @@ Share an Enviromment
 `ngrok <https://dashboard.ngrok.com>`_
 
 
+
+Teardown an Environment
+=====================
+
+* vagrant suspend
+* vagrant halt
+* vagrant destroy
+
+Rebuild an Enviromment
+=====================
+
+* vagrant up
+
+Explore Other Providers
+====================
+
+* vagrant up --provider=vmware_desktop
+
+
