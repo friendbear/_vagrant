@@ -67,3 +67,15 @@ destroy and remove
   Removing box 'hashicorp/bionic64' (v1.0.282) with provider 'virtualbox'...
 
 
+Share an Enviromment
+==============
+
+* vagrant plugin install vagrant-share
+* run vagrant share
+
+.. image:: output/vagrant-share-err.png
+   :alt: ngrokの制限でエラー
+
+`ngrok <https://dashboard.ngrok.com>`_
+
+
